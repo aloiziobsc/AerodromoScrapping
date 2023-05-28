@@ -3,7 +3,7 @@
 1. Tenha o docker instalado [install Docker](https://www.docker.com/products/docker-desktop/)
 2. Clone este repositório para sua máquina local
 ```
- git clone 
+ git clone git@github.com:aloiziobsc/AerodromoScrapping.git
 ```
 3. Navegue até o diretório do projeto e instale as dependências:
  ```
