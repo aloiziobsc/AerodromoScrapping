@@ -5,7 +5,7 @@
 ```
  git clone git@github.com:aloiziobsc/AerodromoScrapping.git
 ```
-3. Navegue até o diretório do projeto e instale as dependências:
+3. Navegue até o diretório do projeto:
  ```
  cd AerodromoScrapping
 ```
